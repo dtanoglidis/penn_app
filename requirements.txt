@@ -13,7 +13,6 @@ pandas==2.3.1
 pillow==11.3.0
 propcache==0.3.2
 protobuf==6.31.1
-pyarrow==17.0.0
 pygments==2.19.2
 pypdf==5.8.0
 pyzmq==26.2.1
